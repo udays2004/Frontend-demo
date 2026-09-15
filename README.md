@@ -1,2 +1,2 @@
 # Frontend-demo
-this is demo for frontend developement
+this is demo for frontend developement.
